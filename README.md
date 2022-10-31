@@ -1,5 +1,5 @@
 # fitrin_Portfolio
-My name is Fitrin Aulia Salima. This repository is used for portfolio purpose in data science. It contains projects I have finished.
+My name is Fitrin Aulia Salima. This repository is used for portfolio purpose in data science. It contains projects I have finished.  
 Contact: fitrin76@gmail.com
 
 ## [Project 1: EDA - Exploratory Data Analysis in Covid 19 Dataset (Python)](https://github.com/fitrinaulia/fitrinaulia.github.io/blob/main/EDA_Covid_19.ipynb)
